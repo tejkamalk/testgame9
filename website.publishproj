@@ -18,9 +18,9 @@ Copyright (C) Microsoft Corporation. All rights reserved.
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.30319</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{6a7eab9d-2cd3-4de4-ac77-5e9e8cf0b94c}</ProjectGuid>
+    <ProjectGuid>{aa27b02f-6503-4a0c-a555-92341d92788e}</ProjectGuid>
     <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
-    <SourceWebVirtualPath>/testgame</SourceWebVirtualPath>
+    <SourceWebVirtualPath>/PEC-DiT v1.0 WebGL</SourceWebVirtualPath>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <SourceWebProject></SourceWebProject>
     <SourceWebMetabasePath></SourceWebMetabasePath>
